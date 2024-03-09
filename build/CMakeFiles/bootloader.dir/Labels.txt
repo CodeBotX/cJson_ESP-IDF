@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/sourcescode_idf/library_for_airSen/build/CMakeFiles/bootloader
+E:/sourcescode_idf/library_for_airSen/build/CMakeFiles/bootloader.rule
+E:/sourcescode_idf/library_for_airSen/build/CMakeFiles/bootloader-complete.rule
+E:/sourcescode_idf/library_for_airSen/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/sourcescode_idf/library_for_airSen/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/sourcescode_idf/library_for_airSen/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/sourcescode_idf/library_for_airSen/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/sourcescode_idf/library_for_airSen/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/sourcescode_idf/library_for_airSen/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/sourcescode_idf/library_for_airSen/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
