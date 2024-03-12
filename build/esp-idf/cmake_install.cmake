@@ -407,3 +407,8 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("E:/sourcescode_idf/library_for_airSen/build/esp-idf/main/cmake_install.cmake")
 endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("E:/sourcescode_idf/library_for_airSen/build/esp-idf/toJSON/cmake_install.cmake")
+endif()
+

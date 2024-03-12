@@ -1,4 +1,4 @@
-# Install script for directory: E:/sourcescode_idf/library_for_airSen/components/my_to_JS
+# Install script for directory: E:/sourcescode_idf/library_for_airSen/component/my_to_JS
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

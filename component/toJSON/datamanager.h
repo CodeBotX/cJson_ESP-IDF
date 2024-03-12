@@ -41,10 +41,12 @@ struct dataSensor_st
 
 #if CONFIG_USING_SO2_SENSOR
     uint32_t SO2;
-#endif // CONFIG_USING_CO2_SENSOR
+#endif // CONFIG_USING_SO2_SENSOR
 
 };
 
 const char dataSensor_templateSaveToSDCard[] = "%s,%0.2f,%0.2f,%0.2f,%"PRIu32",%"PRIu32",%"PRIu32"";
+
+char* dataSensor_to_JSON(struct dataSensor_st* data);
 
 #endif
